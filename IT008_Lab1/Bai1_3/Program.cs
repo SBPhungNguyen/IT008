@@ -11,6 +11,7 @@ public class GeneticClass<T>
     }
     public GeneticClass()
     {
+
     }
     public void add(T t)
     {
