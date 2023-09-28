@@ -17,6 +17,40 @@ public class GeneticClass<T>
         data[n] = t;
         n++;
     }
+    public int max(int[] t)
+    {
+        int m = t[0];
+        for (int i = 1; i < n; i++)
+        {
+            if (m < t[i])
+                m = t[i];
+        }
+        return m;
+    }
+    public float max(float[] t)
+    {
+        float m = t[0];
+        for (int i = 1; i < n; i++)
+        {
+            if (m < t[i])
+                m = t[i];
+        }
+        return m;
+    }
+    public string max(string[] t)
+    {
+        string m = t[0];
+        for (int i = 1; i < n; i++)
+        {
+            if (m.Length < t[i].Length)
+                m = t[i];
+        }
+        return m;
+    }
+    public void xuat(T t)
+    {
+        Console.WriteLine("Vay phan tu lon nhat la: " + t);
+    }
 }
 class Program
 {
@@ -26,10 +60,15 @@ class Program
         string[] str = new string[1000];
         Console.Write("Moi ban chon loai (1_int, 2_string, 3_float): ");
         k = int.Parse(Console.ReadLine());
+        if (k < 1 || k > 3)
+        {
+            throw new Exception("Nhap sai loai du lieu");
+        }
         Console.Write("Moi ban chon so luong: ");
         n = int.Parse(Console.ReadLine());
         for (int i = 0; i < n; i++)
         {
+            Console.Write("Moi nhap phan tu thu " + i + ": ");
             str[i] = Console.ReadLine();
         }
         if (k == 1)
@@ -40,11 +79,8 @@ class Program
                 int f = int.Parse(str[i]);
                 a.add(f);
             }
-            int t = a.data[0];
-            for (int i = 0; i < n; i++)
-                if (t < a.data[i])
-                    t = a.data[i];
-            Console.WriteLine("Vay so lon nhat la: " + t);
+            int t = a.max(a.data);
+            a.xuat(t);
         }
         else if (k == 2)
         {
@@ -53,13 +89,10 @@ class Program
             {
                 a.add(str[i]);
             }
-            string t = a.data[0];
-            for (int i = 1; i < n; i++)
-                if (t.Length < a.data[i].Length)
-                    t = a.data[i];
-            Console.WriteLine("Vay chuoi dai nhat la: " + t);
+            string t = a.max(a.data);
+            a.xuat(t);
         }
-        else
+        else if (k == 3)
         {
             var a = new GeneticClass<float>();
             for (int i = 0; i < n; i++)
@@ -67,11 +100,8 @@ class Program
                 float f = float.Parse(str[i]);
                 a.add(f);
             }
-            float t = a.data[0];
-            for (int i = 1; i < n; i++)
-                if (t < a.data[i])
-                    t = a.data[i];
-            Console.WriteLine("Vay so lon nhat la: " + t);
+            float t = a.max(a.data);
+            a.xuat(t);
         }
     }
 }
