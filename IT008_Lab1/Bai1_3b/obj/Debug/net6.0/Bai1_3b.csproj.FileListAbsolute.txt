@@ -1,0 +1,14 @@
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\bin\Debug\net6.0\Bai1_3b.exe
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\bin\Debug\net6.0\Bai1_3b.deps.json
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\bin\Debug\net6.0\Bai1_3b.runtimeconfig.json
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\bin\Debug\net6.0\Bai1_3b.dll
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\bin\Debug\net6.0\Bai1_3b.pdb
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\obj\Debug\net6.0\Bai1_3b.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\obj\Debug\net6.0\Bai1_3b.AssemblyInfoInputs.cache
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\obj\Debug\net6.0\Bai1_3b.AssemblyInfo.cs
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\obj\Debug\net6.0\Bai1_3b.csproj.CoreCompileInputs.cache
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\obj\Debug\net6.0\Bai1_3b.dll
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\obj\Debug\net6.0\refint\Bai1_3b.dll
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\obj\Debug\net6.0\Bai1_3b.pdb
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\obj\Debug\net6.0\Bai1_3b.genruntimeconfig.cache
+D:\GitHub\IT008\IT008_Lab1\Bai1_3b\obj\Debug\net6.0\ref\Bai1_3b.dll
