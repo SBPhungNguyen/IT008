@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Runtime.ExceptionServices;
 
-class GeneticClass<T>
+class GenericClass<T>
 {
     public T[] data = new T[1000];
     public int n = 0;
-    public GeneticClass()
+    public GenericClass()
     {
 
     }
-    public GeneticClass(T[] data, int t)
+    public GenericClass(T[] data, int t)
     {
         n = t;
         this.data = data;
@@ -75,21 +75,21 @@ class Program
         }
         if (k == 1)
         {
-            GeneticClass<int> a = new GeneticClass<int>();
+            GenericClass<int> a = new GenericClass<int>();
             for (int i = 0; i < n; i++)
                 a.Add(int.Parse(str[i]));
             a.xuat(a.min(a.data));
         }
         if (k == 2)
         {
-            GeneticClass<float> a = new GeneticClass<float>();
+            GenericClass<float> a = new GenericClass<float>();
             for (int i = 0; i < n; i++)
                 a.Add(float.Parse(str[i]));
             a.xuat(a.min(a.data));
         }
         else
         {
-            GeneticClass<string> a = new GeneticClass<string>();
+            GenericClass<string> a = new GenericClass<string>();
             for (int i = 0; i < n; i++)
                 a.Add(str[i]);
             a.xuat(a.min(a.data));

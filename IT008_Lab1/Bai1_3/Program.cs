@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Diagnostics;
-public class GeneticClass<T>
+public class GenericClass<T>
 {
     public int n = 0;
     public T[] data = new T[1000];
-    public GeneticClass(T[] a, int t)
+    public GenericClass(T[] a, int t)
     {
         n = t;
         data = a;
     }
-    public GeneticClass()
+    public GenericClass()
     {
 
     }
@@ -74,7 +74,7 @@ class Program
         }
         if (k == 1)
         {
-            var a = new GeneticClass<int>();
+            var a = new GenericClass<int>();
             for (int i = 0; i < n; i++)
             {
                 int f = int.Parse(str[i]);
@@ -85,7 +85,7 @@ class Program
         }
         else if (k == 2)
         {
-            var a = new GeneticClass<string>();
+            var a = new GenericClass<string>();
             for (int i = 0; i < n; i++)
             {
                 a.add(str[i]);
@@ -95,7 +95,7 @@ class Program
         }
         else if (k == 3)
         {
-            var a = new GeneticClass<float>();
+            var a = new GenericClass<float>();
             for (int i = 0; i < n; i++)
             {
                 float f = float.Parse(str[i]);
