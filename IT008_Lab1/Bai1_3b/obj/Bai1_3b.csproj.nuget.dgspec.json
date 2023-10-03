@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj": {}
+    "D:\\GitHub\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj": {}
   },
   "projects": {
-    "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj": {
+    "D:\\GitHub\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj",
+        "projectUniqueName": "D:\\GitHub\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj",
         "projectName": "Bai1_3b",
-        "projectPath": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj",
-        "packagesPath": "C:\\Users\\TRUNGKIEN\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3b\\obj\\",
+        "projectPath": "D:\\GitHub\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\IT008\\IT008_Lab1\\Bai1_3b\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TRUNGKIEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
