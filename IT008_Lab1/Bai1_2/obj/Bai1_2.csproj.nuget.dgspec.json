@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3\\Bai1_3a.csproj": {}
+    "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_2\\Bai1_2.csproj": {}
   },
   "projects": {
-    "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3\\Bai1_3a.csproj": {
+    "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_2\\Bai1_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3\\Bai1_3a.csproj",
-        "projectName": "Bai1_3a",
-        "projectPath": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3\\Bai1_3a.csproj",
+        "projectUniqueName": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_2\\Bai1_2.csproj",
+        "projectName": "Bai1_2",
+        "projectPath": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_2\\Bai1_2.csproj",
         "packagesPath": "C:\\Users\\TRUNGKIEN\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3\\obj\\",
+        "outputPath": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TRUNGKIEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

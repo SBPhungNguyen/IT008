@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj",
-      "projectName": "Bai1_3b",
-      "projectPath": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj",
+      "projectUniqueName": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_2\\Bai1_2.csproj",
+      "projectName": "Bai1_2",
+      "projectPath": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_2\\Bai1_2.csproj",
       "packagesPath": "C:\\Users\\TRUNGKIEN\\.nuget\\packages\\",
-      "outputPath": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_3b\\obj\\",
+      "outputPath": "G:\\GitHub_IT008\\IT008\\IT008_Lab1\\Bai1_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TRUNGKIEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
