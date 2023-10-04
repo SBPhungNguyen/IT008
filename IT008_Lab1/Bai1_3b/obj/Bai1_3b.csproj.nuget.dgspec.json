@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj": {}
+    "C:\\Users\\TRUNGKIEN\\OneDrive\\Hình ảnh\\Git\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj": {
+    "C:\\Users\\TRUNGKIEN\\OneDrive\\Hình ảnh\\Git\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj",
+        "projectUniqueName": "C:\\Users\\TRUNGKIEN\\OneDrive\\Hình ảnh\\Git\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj",
         "projectName": "Bai1_3b",
-        "projectPath": "D:\\GitHub\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\IT008\\IT008_Lab1\\Bai1_3b\\obj\\",
+        "projectPath": "C:\\Users\\TRUNGKIEN\\OneDrive\\Hình ảnh\\Git\\IT008\\IT008_Lab1\\Bai1_3b\\Bai1_3b.csproj",
+        "packagesPath": "C:\\Users\\TRUNGKIEN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TRUNGKIEN\\OneDrive\\Hình ảnh\\Git\\IT008\\IT008_Lab1\\Bai1_3b\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TRUNGKIEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
