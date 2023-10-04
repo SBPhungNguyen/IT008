@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\TRUNGKIEN\\.nuget\\packages\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TRUNGKIEN\\OneDrive\\Hình ảnh\\Git\\IT008\\IT008_Lab1\\Bai1_2\\Bai1_2.csproj",
+      "projectUniqueName": "D:\\GitHub\\HmmIT008\\IT008\\IT008_Lab1\\Bai1_2\\Bai1_2.csproj",
       "projectName": "Bai1_2",
-      "projectPath": "C:\\Users\\TRUNGKIEN\\OneDrive\\Hình ảnh\\Git\\IT008\\IT008_Lab1\\Bai1_2\\Bai1_2.csproj",
-      "packagesPath": "C:\\Users\\TRUNGKIEN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TRUNGKIEN\\OneDrive\\Hình ảnh\\Git\\IT008\\IT008_Lab1\\Bai1_2\\obj\\",
+      "projectPath": "D:\\GitHub\\HmmIT008\\IT008\\IT008_Lab1\\Bai1_2\\Bai1_2.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\HmmIT008\\IT008\\IT008_Lab1\\Bai1_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TRUNGKIEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
