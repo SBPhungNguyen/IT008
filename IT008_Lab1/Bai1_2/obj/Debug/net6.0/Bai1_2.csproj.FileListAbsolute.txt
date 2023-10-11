@@ -1,0 +1,14 @@
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\bin\Debug\net6.0\Bai1_2.exe
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\bin\Debug\net6.0\Bai1_2.deps.json
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\bin\Debug\net6.0\Bai1_2.runtimeconfig.json
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\bin\Debug\net6.0\Bai1_2.dll
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\bin\Debug\net6.0\Bai1_2.pdb
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\obj\Debug\net6.0\Bai1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\obj\Debug\net6.0\Bai1_2.AssemblyInfoInputs.cache
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\obj\Debug\net6.0\Bai1_2.AssemblyInfo.cs
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\obj\Debug\net6.0\Bai1_2.csproj.CoreCompileInputs.cache
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\obj\Debug\net6.0\Bai1_2.dll
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\obj\Debug\net6.0\refint\Bai1_2.dll
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\obj\Debug\net6.0\Bai1_2.pdb
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\obj\Debug\net6.0\Bai1_2.genruntimeconfig.cache
+D:\GitHub\HmmIT008\IT008\IT008_Lab1\Bai1_2\obj\Debug\net6.0\ref\Bai1_2.dll
