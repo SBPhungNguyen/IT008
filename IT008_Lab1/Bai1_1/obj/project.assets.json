@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\HmmIT008\\IT008\\IT008_Lab1\\Bai1_1\\Bai1_1.csproj",
+      "projectUniqueName": "D:\\GitHub\\IT008_Lab2\\IT008\\IT008_Lab1\\Bai1_1\\Bai1_1.csproj",
       "projectName": "Bai1_1",
-      "projectPath": "D:\\GitHub\\HmmIT008\\IT008\\IT008_Lab1\\Bai1_1\\Bai1_1.csproj",
+      "projectPath": "D:\\GitHub\\IT008_Lab2\\IT008\\IT008_Lab1\\Bai1_1\\Bai1_1.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\HmmIT008\\IT008\\IT008_Lab1\\Bai1_1\\obj\\",
+      "outputPath": "D:\\GitHub\\IT008_Lab2\\IT008\\IT008_Lab1\\Bai1_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

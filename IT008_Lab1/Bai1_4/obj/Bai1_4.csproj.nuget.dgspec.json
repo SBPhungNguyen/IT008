@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MN\\Documents\\GitHub\\IT008\\IT008_Lab1\\Bai1_4\\Bai1_4.csproj": {}
+    "D:\\GitHub\\IT008_Lab2\\IT008\\IT008_Lab1\\Bai1_4\\Bai1_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MN\\Documents\\GitHub\\IT008\\IT008_Lab1\\Bai1_4\\Bai1_4.csproj": {
+    "D:\\GitHub\\IT008_Lab2\\IT008\\IT008_Lab1\\Bai1_4\\Bai1_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MN\\Documents\\GitHub\\IT008\\IT008_Lab1\\Bai1_4\\Bai1_4.csproj",
+        "projectUniqueName": "D:\\GitHub\\IT008_Lab2\\IT008\\IT008_Lab1\\Bai1_4\\Bai1_4.csproj",
         "projectName": "Bai1_4",
-        "projectPath": "C:\\Users\\MN\\Documents\\GitHub\\IT008\\IT008_Lab1\\Bai1_4\\Bai1_4.csproj",
-        "packagesPath": "C:\\Users\\MN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MN\\Documents\\GitHub\\IT008\\IT008_Lab1\\Bai1_4\\obj\\",
+        "projectPath": "D:\\GitHub\\IT008_Lab2\\IT008\\IT008_Lab1\\Bai1_4\\Bai1_4.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\IT008_Lab2\\IT008\\IT008_Lab1\\Bai1_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

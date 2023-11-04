@@ -1,0 +1,10 @@
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_7\bin\Debug\Bai2_7.exe.config
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_7\bin\Debug\Bai2_7.exe
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_7\bin\Debug\Bai2_7.pdb
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_7\obj\Debug\Bai2_7.csproj.AssemblyReference.cache
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_7\obj\Debug\Bai2_7.Form1.resources
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_7\obj\Debug\Bai2_7.Properties.Resources.resources
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_7\obj\Debug\Bai2_7.csproj.GenerateResource.cache
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_7\obj\Debug\Bai2_7.csproj.CoreCompileInputs.cache
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_7\obj\Debug\Bai2_7.exe
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_7\obj\Debug\Bai2_7.pdb
