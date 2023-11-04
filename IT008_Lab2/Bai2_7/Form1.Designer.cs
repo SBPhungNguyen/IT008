@@ -220,6 +220,7 @@
             this.Controls.Add(this.HourBox);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.NowTime);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "ShutDown";
             this.Load += new System.EventHandler(this.Form1_Load);
