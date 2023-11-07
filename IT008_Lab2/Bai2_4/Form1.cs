@@ -16,5 +16,24 @@ namespace Bai2_4
         {
             InitializeComponent();
         }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Random random = new Random();
+            int x = random.Next(Width);
+            int y = random.Next(Height);
+            using (Graphics g = CreateGraphics())
+            {
+                g.DrawString("Paint Event", Font, Brushes.Black, x, y);
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            using (Graphics g = CreateGraphics()) 
+            {
+                SolidBrush brush = new SolidBrush(SystemColors.Control);
+                g.FillRectangle(brush, ClientRectangle);
+            }
+        }
     }
 }
