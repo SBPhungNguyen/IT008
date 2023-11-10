@@ -1,0 +1,10 @@
+C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.csproj.AssemblyReference.cache
+C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.Form1.resources
+C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.Properties.Resources.resources
+C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.csproj.GenerateResource.cache
+C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.csproj.CoreCompileInputs.cache
+C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\bin\Debug\Bai2_8.exe.config
+C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\bin\Debug\Bai2_8.exe
+C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\bin\Debug\Bai2_8.pdb
+C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.exe
+C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.pdb

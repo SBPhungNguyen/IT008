@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MN\\Documents\\GitHub\\IT008\\IT008_Lab2\\Lab2_2_6\\Bai2_6.csproj": {}
+    "C:\\Users\\TRUNGKIEN\\Downloads\\IT008Clone\\IT008\\IT008_Lab2\\Lab2_2_6\\Bai2_6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MN\\Documents\\GitHub\\IT008\\IT008_Lab2\\Lab2_2_6\\Bai2_6.csproj": {
+    "C:\\Users\\TRUNGKIEN\\Downloads\\IT008Clone\\IT008\\IT008_Lab2\\Lab2_2_6\\Bai2_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MN\\Documents\\GitHub\\IT008\\IT008_Lab2\\Lab2_2_6\\Bai2_6.csproj",
+        "projectUniqueName": "C:\\Users\\TRUNGKIEN\\Downloads\\IT008Clone\\IT008\\IT008_Lab2\\Lab2_2_6\\Bai2_6.csproj",
         "projectName": "Bai2_6",
-        "projectPath": "C:\\Users\\MN\\Documents\\GitHub\\IT008\\IT008_Lab2\\Lab2_2_6\\Bai2_6.csproj",
-        "packagesPath": "C:\\Users\\MN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MN\\Documents\\GitHub\\IT008\\IT008_Lab2\\Lab2_2_6\\obj\\",
+        "projectPath": "C:\\Users\\TRUNGKIEN\\Downloads\\IT008Clone\\IT008\\IT008_Lab2\\Lab2_2_6\\Bai2_6.csproj",
+        "packagesPath": "C:\\Users\\TRUNGKIEN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TRUNGKIEN\\Downloads\\IT008Clone\\IT008\\IT008_Lab2\\Lab2_2_6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TRUNGKIEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
