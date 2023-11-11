@@ -8,3 +8,13 @@ C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\bin\Debug\Bai2_8
 C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\bin\Debug\Bai2_8.pdb
 C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.exe
 C:\Users\TRUNGKIEN\Downloads\IT008Clone\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.pdb
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_8\bin\Debug\Bai2_8.exe.config
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_8\bin\Debug\Bai2_8.exe
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_8\bin\Debug\Bai2_8.pdb
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.csproj.AssemblyReference.cache
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.Form1.resources
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.Properties.Resources.resources
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.csproj.GenerateResource.cache
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.csproj.CoreCompileInputs.cache
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.exe
+D:\GitHub\IT008_Lab2\IT008\IT008_Lab2\Bai2_8\obj\Debug\Bai2_8.pdb

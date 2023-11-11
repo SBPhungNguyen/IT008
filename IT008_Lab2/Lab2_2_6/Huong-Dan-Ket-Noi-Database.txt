@@ -1,0 +1,4 @@
+Vì database lưu trên mỗi máy khác nhau nên nếu thầy muốn kiểm tra thì:
+1. Restore database SINHVIEN26 (dựa trên file SINHVIEN26.bak)
+2. Kết nối với SQL server trên máy thầy
+3. Thay connection string trong code bằng connection string trên máy thầy
